@@ -4,6 +4,7 @@ public class test{
 		if(tmp == 1){
 			System.out.println("Test erfolgreich");
 		}else{
+			tmp = 2;
 			System.out.println("Nicht erfolgreich");
 		}
 	}
