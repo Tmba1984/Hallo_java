@@ -1,5 +1,10 @@
-public class Hello{
+public class test{
 	public static void main(String[] args){
-		System.out.println("thierry");
+		int tmp = 0;
+		if(tmp == 1){
+			System.out.println("HAllo");
+		}else{
+			System.out.println("Test1");
+		}
 	}
 }
